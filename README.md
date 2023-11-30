@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-### I'm Ana Paula, but you can call me Nylla. I'm a full stack web development student.
+### I'm Ana Paula, but you can call me Nylla. I'm a front-end developer and a full-stack development student.
 
 I know what you're thinking... "Why Nylla?"... It's a childhood nickname. My friends and I invented it to roleplay in the Harry Potter world and it kinda stuck. 😁
 
