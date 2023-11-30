@@ -37,17 +37,6 @@ I'm an ESL teacher and I have an Online English Course. I'm developing an applic
 ### Database:
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Linter:
-![image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-
-### IDE:
-![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### My stats:
-![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nyllaah&theme=dark)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyllaah&theme=dark)
-
 ### I'm learning / intend to learn:
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -55,3 +44,6 @@ I'm an ESL teacher and I have an Online English Course. I'm developing an applic
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### My stats:
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyllaah&theme=dark) ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nyllaah&theme=dark)
