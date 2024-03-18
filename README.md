@@ -4,7 +4,7 @@
 
 I know what you're thinking... "Why Nylla?"... It's a childhood nickname. My friends and I invented it to roleplay in the Harry Potter world and it kinda stuck. 😁
 
-I live in Brasília, Brazil. I'm currently studying at [Trybe](http://www.trybe.com.br), a nationally renowned Programming School. I also enjoy everything related to graphic design, languages, AI and gaming.
+I live in Brasília, Brazil. I'm currently studying at [Trybe](http://www.trybe.com.br), a nationally renowned Tech School. I also enjoy everything related to graphic design, languages, AI and gaming.
 I'm an ESL teacher and I have an Online English Course. I'm developing an application based on my teaching methodology as a way to apply everything I've been learning and also expand my business.
 
 
