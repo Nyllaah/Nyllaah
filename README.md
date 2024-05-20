@@ -1,11 +1,12 @@
 ### Hey there 👋
 
-### I'm Ana Paula, but you can call me Nylla. I'm a front-end developer and a full-stack development student.
+### I'm Ana Paula, but you can call me Nylla. I'm a full-stack developer.
 
 I know what you're thinking... "Why Nylla?"... It's a childhood nickname. My friends and I invented it to roleplay in the Harry Potter world and it kinda stuck. 😁
 
-I live in Brasília, Brazil. I'm currently studying at [Trybe](http://www.trybe.com.br), a nationally renowned Tech School. I also enjoy everything related to graphic design, languages, AI and gaming.
-I'm an ESL teacher and I have an Online English Course. I'm developing an application based on my teaching methodology as a way to apply everything I've been learning and also expand my business.
+I live in Brasília, Brazil. I enjoy everything related to graphic design, languages, AI, and gaming.
+I'm currently learning Kotlin.
+I'm an ESL teacher and I have an Online English Course. I'm developing an application based on my teaching methodology as a way to expand my business.
 
 
 ### Languages:
