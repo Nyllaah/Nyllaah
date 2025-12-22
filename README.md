@@ -5,7 +5,7 @@
 I know what you're thinking... "Why Nylla?"... It's a childhood nickname. My friends and I invented it to roleplay in the Harry Potter world and it kinda stuck. 😁
 
 I live in Brasília, Brazil. I enjoy everything related to graphic design, languages, AI, and gaming.
-I'm currently learning Kotlin.
+I'm currently learning React Native.
 I'm an ESL teacher and I have an Online English Course. I'm developing an application based on my teaching methodology as a way to expand my business.
 
 
