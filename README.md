@@ -9,7 +9,7 @@ Based in Brazil and open to remote opportunities worldwide.
 ## Current Projects
 
 * 📚 Narria Audiobook Player — immersive audiobook and reading experience built with React Native and Expo
-* Narria BookClub — book club management and social app.
+* 📚 Narria BookClub — book club management and social app.
 * 🎓 UPSPEAK — online English learning platform focused on digital learning experiences
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
