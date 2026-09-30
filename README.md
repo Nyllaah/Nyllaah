@@ -2,7 +2,7 @@
 
 ### I'm Ana Paula, but you can call me Nylla — a nickname that followed me from childhood RPG sessions and never really left (yes, I'm nerdy).
 
-Frontend Engineer focused on building modern web and mobile experiences using React, TypeScript, Next.js, and React Native.
+Fullstack Engineer focused on building modern web and mobile experiences using React, TypeScript, Next.js, and React Native.
 Currently working on fintech and edtech products, with interests in AI-assisted development, user experience, and digital learning platforms.
 Based in Brazil and open to remote opportunities worldwide.
 
